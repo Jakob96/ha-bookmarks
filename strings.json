@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Bokmärken",
+        "description": "Lägg till en bokmärkessida i sidomenyn."
+      }
+    },
+    "abort": {
+      "already_configured": "Bokmärken är redan konfigurerat."
+    }
+  }
+}

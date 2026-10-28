@@ -1,0 +1,9 @@
+save_bookmarks:
+  name: Spara bokmärken
+  description: Sparar bokmärken som används av panelen.
+  fields:
+    bookmarks:
+      name: Bokmärken
+      required: true
+      selector:
+        object:

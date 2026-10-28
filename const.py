@@ -1,0 +1,4 @@
+DOMAIN = "ha_bookmarks"
+STORAGE_VERSION = 1
+STORAGE_KEY = DOMAIN
+PANEL_PATH = "bookmarks"
